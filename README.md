@@ -1,7 +1,7 @@
 # Pseudokod
 
 ## Split the nota
-Flödesschema
+
 ![image](https://github.com/user-attachments/assets/b9e1decd-1776-46ea-8471-22ebbaa8b5e4)
 
 
