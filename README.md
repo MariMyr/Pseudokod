@@ -8,4 +8,3 @@
 ## Lewis Carroll Word Puzzle
 ![image](https://github.com/user-attachments/assets/c38958fd-b928-433e-97d1-fbdd4becf1ea)
 
-![image](https://github.com/user-attachments/assets/d328b0f2-c780-43f7-b405-1ff2e8300caf)
